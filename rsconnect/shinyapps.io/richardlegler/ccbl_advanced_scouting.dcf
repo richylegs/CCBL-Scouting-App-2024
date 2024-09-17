@@ -1,0 +1,12 @@
+name: ccbl_advanced_scouting
+title: CCBL_Advanced_Scouting
+username: richardlegler
+account: richardlegler
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12252553
+bundleId: 8949389
+url: https://richardlegler.shinyapps.io/ccbl_advanced_scouting/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,3 +1,5 @@
+https://richardlegler.shinyapps.io/ccbl_advanced_scouting/
+
 R Shiny application utilized by the Hyannis Harbor Hawks for advanced scouting of opponents in the 2024 CCBL season.
 
 Pitchers section includes analysis of all players identified to have thrown a pitch during the CCBL regular season:
